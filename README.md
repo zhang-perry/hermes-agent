@@ -78,6 +78,7 @@ hermes setup        # Run the full setup wizard (configures everything at once)
 hermes claw migrate # Migrate from OpenClaw (if coming from OpenClaw)
 hermes update       # Update to the latest version
 hermes doctor       # Diagnose any issues
+hermes desktop      # Build and install desktop
 ```
 
 📖 **[Full documentation →](https://hermes-agent.nousresearch.com/docs/)**
